@@ -1,0 +1,61 @@
+{
+  "uuid": "a3f75b38-5d4d-40d7-8d1a-6bfce56730a3",
+  "shortName": "DogeWatch",
+  "longName": "DogeWatch",
+  "companyName": "TylerLeonhardt",
+  "versionCode": 1,
+  "versionLabel": "1.0.2",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+    {
+        "type": "png",
+        "name": "DOGE",
+        "file": "images/doge.png"
+    },
+    {
+        "type": "png",
+        "name": "DOGE_INVERTED",
+        "file": "images/doge_inverted.png"
+    },
+    {
+        "type": "png",
+        "name": "DOGE_CHARGING",
+        "file": "images/battery/doge_charging.png"
+    },
+    {
+        "type": "png",
+        "name": "DOGE_90_TO_70",
+        "file": "images/battery/doge_90_to_70.png"
+    },
+    {
+        "type": "png",
+        "name": "DOGE_60_TO_40",
+        "file": "images/battery/doge_60_to_40.png"
+    },
+    {
+        "type": "png",
+        "name": "DOGE_30_TO_10",
+        "file": "images/battery/doge_30_to_10.png"
+    },
+    {
+        "type": "png",
+        "name": "DOGE_DEAD",
+        "file": "images/battery/doge_dead.png"
+    },
+    {
+        "type": "font",
+        "name": "FONT_COMIC_SANS_12",
+        "file": "fonts/ComicSansMSBold.ttf"
+    },
+    {
+        "type": "font",
+        "name": "FONT_COMIC_SANS_25",
+        "file": "fonts/ComicSansMSBold.ttf"
+    }
+    ]
+  }
+}
