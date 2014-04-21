@@ -1,3 +1,5 @@
 .DS_Store
 build
 wscript
+_DS_Store
+.gitignore
